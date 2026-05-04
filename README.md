@@ -4,9 +4,9 @@
 This repository contains a comprehensive set of Sales Analytics reports for AtliQ Hardwares, built in Excel to track performance across customers, markets, divisions, and products. It provides actionable insights into sales growth, target achievement, and product performance trends.
 
 ## Project objective:
-   **1.** Create a Customer Performance Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/1.%20Customer%20Performance%20Report.pdf] = Net sales growth by customer (2019–2021), highlighting top contributors like Amazon, AtliQ Exclusive, and Walmart.
+  **1.** Create a Customer Performance Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/1.%20Customer%20Performance%20Report.pdf] = Net sales growth by customer (2019–2021), highlighting top contributors like Amazon, AtliQ Exclusive, and Walmart.
   
-   **2.** Create a Market Performance vs Target Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/2.%20Market%20Performance%20vs%20Target%20Report.pdf] = Country-level analysis comparing actual sales vs targets, with variance and percentage achievement.
+  **2.** Create a Market Performance vs Target Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/2.%20Market%20Performance%20vs%20Target%20Report.pdf] = Country-level analysis comparing actual sales vs targets, with variance and percentage achievement.
   
    **3.** Create a Top 10 Products Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/3.%20Top%2010%20Products.pdf] = High-growth products such as AQ Smash 2, AQ Mx NB, and Desktop Processor.
   
@@ -53,7 +53,7 @@ This repository serves as a reference toolkit for sales analysts, business intel
    **3.** New product launches contributed significantly, adding $176.2M in 2021.
    
    **4.** High-growth customers include Chiptec (722%), Integration Stores (887%), and Nova (2664%).
-
-
-- Evaluate product launches.
-- Compare actuals vs targets across regions and divisions.
+   
+   **5.** Evaluate product launches.
+   
+   **4.** Compare actuals vs targets across regions and divisions.
