@@ -21,27 +21,37 @@ This repository contains a comprehensive set of Sales Analytics reports for Atli
 ## Purpose of sales analytics:
 
 This repository serves as a reference toolkit for sales analysts, business intelligence teams, and decision-makers to:
+
    **1.** Monitor performance trends.
+   
    **2.** Identify growth opportunities.
+   
    **3.** Make data-driven decisions.
 
 ## Importance of analyzing sales data:
 
    **1.** Identify high-performing and low-performing customers
+   
    **2.** Track KPIs like revenue, growth %, and target achievement
+   
    **3.** Detect seasonal trends and demand patterns
 
 ## Role of reports:
 
    **1.** Optimize customer discount strategies
+   
    **2.** Support sales negotiations
+   
    **3.** Identify expansion opportunities in high-growth markets
 
 ## Insights:
 
    **1.** Overall sales grew from $196.7M in 2020 to $598.9M in 2021 (204.5% growth).
+   
    **2.** India was the largest market in 2021 with $161.3M sales, followed by USA and South Korea.
+   
    **3.** New product launches contributed significantly, adding $176.2M in 2021.
+   
    **4.** High-growth customers include Chiptec (722%), Integration Stores (887%), and Nova (2664%).
 
 
