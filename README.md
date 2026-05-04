@@ -6,15 +6,15 @@ This repository contains a comprehensive set of Sales Analytics reports for Atli
 ## Project objective:
   **1.** Create a Customer Performance Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/1.%20Customer%20Performance%20Report.pdf] = Net sales growth by customer (2019–2021), highlighting top contributors like Amazon, AtliQ Exclusive, and Walmart.
   
-  **2.** Create a Market Performance vs Target Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/2.%20Market%20Performance%20vs%20Target%20Report.pdf] = Country-level analysis comparing actual sales vs targets, with variance and percentage achievement.
+  **2.** Compare Market Performance vs Target Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/2.%20Market%20Performance%20vs%20Target%20Report.pdf] = Country-level analysis comparing actual sales vs targets, with variance and percentage achievement.
   
-   **3.** Create a Top 10 Products Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/3.%20Top%2010%20Products.pdf] = High-growth products such as AQ Smash 2, AQ Mx NB, and Desktop Processor.
+   **3.** Create Top 10 Products Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/3.%20Top%2010%20Products.pdf] = High-growth products such as AQ Smash 2, AQ Mx NB, and Desktop Processor.
   
-   **4.** Create a Division Level Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/4.%20Division%20Level%20Report.pdf] = Division-wise breakdown (N&S, P&A, PC) showing growth percentages and contribution to overall revenue.
+   **4.** Create Division Level Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/4.%20Division%20Level%20Report.pdf] = Division-wise breakdown (N&S, P&A, PC) showing growth percentages and contribution to overall revenue.
   
-   **5.** Create a Top & Bottom Products Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/5.%20Top%20%26%20Bottom%205%20Products.pdf] = Identifies best-selling and least-performing products by quantity.
+   **5.** Create Top & Bottom 5 Products Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/5.%20Top%20%26%20Bottom%205%20Products.pdf] = Identifies best-selling and least-performing products by quantity.
   
-   **6.** Create a New Products 2021 Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/6.%20New%20Products%202021.pdf] = Sales impact of newly launched products like AQ Gen Y, AQ Trigger, AQ Qwerty, and AQ Maxima Ms.
+   **6.** Create New Products added on 2021 Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/6.%20New%20Products%202021.pdf] = Sales impact of newly launched products like AQ Gen Y, AQ Trigger, AQ Qwerty, and AQ Maxima Ms.
   
    **7.** Create a Top 5 Countries Report[https://github.com/swatitawadker-debug/Excel-Sales-Analytics/blob/main/7.%20Top%205%20Country%202021.pdf] = Country-level sales leaders in 2021 (India, USA, Canada, South Korea, UK).
 
