@@ -57,3 +57,22 @@ This repository serves as a reference toolkit for sales analysts, business intel
    **5.** Evaluate product launches.
    
    **4.** Compare actuals vs targets across regions and divisions.
+
+## Technical Skills Applied:
+- [x]  Proficiency in ETL methodology [Extract, Transform, Load].
+- [x]  Power Query (Data Cleaning & Transformation)
+- [x]  Data Modeling (Power Pivot)
+- [x]  DAX (Calculated Columns & Measures)
+- [x]  Data Integration from Multiple Sources
+
+## Soft Skills Demonstrated
+- [x] Strong understanding of Sales domains
+- [x] User-focused report design
+- [x] Attention to detail & optimization
+- [x] Structured problem-solving approach
+
+## Tools & Technologies
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
